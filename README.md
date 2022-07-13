@@ -5,7 +5,7 @@ I'm a rising senior at the <a href = "https://imsa.edu/">Illinois Mathematics an
 My GitHub mainly has some of my school and research projects that I've worked on throughout my high school career. 
 
 Feel free to contact me! <br>
-✉️: sachleenkaurtuteja@gmail.com
+✉️ sachleenkaurtuteja@gmail.com
 
 ## 💻 Languages
 - Python
