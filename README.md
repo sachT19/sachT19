@@ -1,6 +1,6 @@
 # Hi there, I'm Sachleen! 
 
-I'm an senior at the <a href = "[https://imsa.edu/](https://www.northwestern.edu/)">Northwestern Universityy</a>. My research interest lies around EHR data mining and creating tools that improve both the clinical and patient experience. 
+I'm an incoming freshman at the <a href = "[https://imsa.edu/](https://www.northwestern.edu/)">Northwestern Universityy</a>. My research interest lies around EHR data mining and creating tools that improve both the clinical and patient experience. 
 
 My GitHub mainly has some of my school and research projects that I've worked on throughout my high school career. 
 
