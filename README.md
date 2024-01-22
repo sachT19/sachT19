@@ -1,8 +1,6 @@
 # Hi there, I'm Sachleen! 
 
-I'm an incoming freshman at the <a href = "https://www.northwestern.edu/">Northwestern University</a>. My research interest lies around EHR data mining and creating tools that improve both the clinical and patient experience. 
-
-My GitHub mainly has some of my school and research projects that I've worked on throughout my high school career. 
+I'm a freshman at <a href = "https://www.northwestern.edu/">Northwestern University</a>. My research interest lies around EHR data mining and creating tools that improve both the clinical and patient experience. 
 
 Feel free to contact me! <br>
 ✉️ sachleenkaurtuteja@gmail.com
@@ -10,7 +8,8 @@ Feel free to contact me! <br>
 ## 💻 Languages
 - Python
 - HTML/CSS
-- C++
+- SQL
+- PHP
 - Java
 - JavaScript
 - R
@@ -18,9 +17,6 @@ Feel free to contact me! <br>
 ## 💛 Projects
 - 🧬 Evaluation of variant nomenclature using Python functions
 - 🦠 eMERGE network GWAS and PRS evalutations to identify the genetic underpinnings of autoimmune diseases, include SLE, RA, and SSC
-
-## 👀 Ongoing Projects
-- 
 
 <!---
 sachT19/sachT19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
